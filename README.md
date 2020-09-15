@@ -1,5 +1,3 @@
-# gohome
-
 <html>
 	<head>
 		<meta http-equiv="refresh" content="3; URL=https://sites.google.com/view/xxeperxxaustria/home?authuser=0">
